@@ -1,3 +1,3 @@
 Odin Recipes Project
 
-With my first project I will be demonstrating my ability to create and clone a github repository, setup an index.html file from memory without using the ! shortcut, setup an about.html file from memory without shortcuts, create a repository using the command line, use touch command to add 3 .html recipe files with images that are linked in the index.html file, add ordered and unordered lists, test my code on google-chrome, and how to commit and push to github.
+With my first project I will be demonstrating my ability to create and clone a github repository, setup an index.html file from memory without using the ! shortcut, create a repository using the command line, use touch command to add 3 .html recipe files with images that are linked in the index.html file, add ordered and unordered lists, test my code on google-chrome, and how to commit and push to github.
