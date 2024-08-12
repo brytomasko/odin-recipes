@@ -10,8 +10,9 @@
     border: thin;
     border-style: solid;
     border-color: maroon;
-    margin: auto;
-    text-align: left;
+    margin: 0 auto;
+    padding: 8px 24px;
+    text-align: center;
     outline: 2px maroon;
 }
 
@@ -23,8 +24,9 @@
     border: thin;
     border-color: maroon;
     border-style: solid;
-    margin: auto;
-    text-align: left;
+    margin: 0 auto;
+    padding: 8px 24px;
+    text-align: center;
     outline: 2px maroon;
 }
 
@@ -36,8 +38,9 @@
     border: thin;
     border-color: maroon;
     border-style: solid;
-    margin: auto;
-    text-align: left;
+    text-align: center;
+    padding-left: 0;
+    list-style-position: inside;
     outline: 2px maroon;
 }
 
