@@ -15,18 +15,6 @@
     outline: 2px maroon;
 }
 
-#Jameson {
-    background-color: lightgreen;
-}
-
-#cementmixer {
-    background-color: beige;
-}
-
-#irishtrashcan {
-    background-color: limegreen;
-}
-
 .odin-recipes {
     background-color: beige;
     color: maroon;
@@ -68,7 +56,7 @@
     background-color: greenyellow;
     color: green;
     font-family:Arial, Helvetica, sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border: thin;
     border-color: green;
     border-style: solid;
@@ -90,7 +78,7 @@
     background-color: limegreen;
     color: rgb(0, 149, 255);
     font-family:Arial, Helvetica, sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border: thin;
     border-color: rgb(0, 149, 255);
     border-style: solid;
@@ -129,3 +117,5 @@
     border-style: solid;
     margin: auto;
 }
+
+
